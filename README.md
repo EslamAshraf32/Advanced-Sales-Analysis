@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Macro-Slicer%20Reset-orange?style=flat-square"/>
 </p>
 
-> **A recruiter‑ready Excel portfolio project** showcasing the full analytics workflow—from raw sales data to business‑ready insights—within a single Excel workbook.  
+> **Excel portfolio project** showcasing the full analytics workflow—from raw sales data to business‑ready insights—within a single Excel workbook.  
 > Built using Power Query, Power Pivot, and DAX, with enhanced user experience through a macro button for **1‑click slicer reset**.
 
 ---
