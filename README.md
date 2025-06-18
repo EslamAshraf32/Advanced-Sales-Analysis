@@ -1,74 +1,63 @@
-<!-- ----------------------------------------------------------
- README | Trend Cart — Advanced Sales Analysis (Excel)
- Author: ELSAHM 32 • Last update: 2025‑06‑17
------------------------------------------------------------ -->
+<!-- ----------------------------------------------
+ README | Trend Cart — Sales Analysis in Excel
+ Author: ELSAHM 32 • Updated: 2025‑06‑18
+------------------------------------------------ -->
 
-<h1 align="center">📊 Trend Cart — Advanced Sales Analysis (Dashboard in Excel) </h1>
+<h1 align="center">📊 Trend Cart — Interactive Sales Analysis Dashboard (Excel)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built with-Excel,%20Power Query,%20Power Pivot,%20DAX,%20VBA-00aaff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Built with-Excel,%20Power Query,%20Power Pivot,%20DAX-00aaff?style=flat-square"/>
   <img src="https://img.shields.io/badge/Refresh‑time-<3s-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Macro-Slicer%20Reset-orange?style=flat-square"/>
 </p>
 
-> **A recruiter‑ready showcase** of what can be achieved when data engineering, analytics, and design converge inside a single Excel workbook.  
-> The project demonstrates the *complete analytics life‑cycle*—from raw data to board‑level insights—**without** relying on external BI platforms.
+> **A recruiter‑ready Excel portfolio project** showcasing the full analytics workflow—from raw sales data to business‑ready insights—within a single Excel workbook.  
+> Built using Power Query, Power Pivot, and DAX, with enhanced user experience through a macro button for **1‑click slicer reset**.
 
 ---
 
-## 🚀 Why This Project Matters
-| Value for Business | How I Delivered It |
-|--------------------|--------------------|
-| **Instant answers** to *when, what, who & why* questions. | Three laser‑focused views: **Time Analysis**, **Detailed Dashboard**, **Urgent Report**. |
-| **40 + ready‑to‑use KPIs** (YoY, MoM, margin, segment splits). | Crafted in **DAX** and bound to slicers & drill‑through paths. |
-| **Sub‑second interactivity** on a 50 k + row dataset. | Efficient star‑schema modelling + optimised measures + macros. |
-| **Zero‑click refresh** for end‑users. | `Ctrl + Shift + R` macro triggers Power Query refresh → pivots update → report exported to PDF. |
+## 🚀 Why This Project Matters
+| Business Value                          | How I Delivered It                            |
+|----------------------------------------|-----------------------------------------------|
+| Clear performance tracking (sales, profit, trends) | KPIs + interactive visual dashboards |
+| Instant answers to when, what, who, why | Time filters, top-N analysis, customer/product insights |
+| Clean data model for fast reporting     | Dim/fact tables, calendar table, optimized relationships |
+| User-friendly navigation & refresh      | Macro button resets all slicers in a click |
 
-Recruiters & hiring managers will instantly see **the breadth of skills** (ETL → Modelling → Analytics → Automation → Storytelling) and **the depth of execution** (code quality, performance tuning, UX polish).
-
----
-
-## 🗂️ At‑a‑Glance
-
-| 💼 Domain           | ⚙️ Techniques & Tech          | 📈 Deliverables                            |
-|---------------------|-------------------------------|--------------------------------------------|
-| Retail / e‑commerce | Power Query, Power Pivot, DAX, VBA, Pivot Charts | • Executive dashboard<br>• Automated urgent report (PDF)<br>• Re‑usable data model |
-| Time Series & Cohorts| YoY / MoM, time intelligence | • Seasonality & weekday patterns<br>• Quarterly contribution analysis |
-| Profitability       | Pareto, top‑N ranking, cost analysis | • Product & customer profitability visuals<br>• 1‑click “unprofitable SKUs” drill‑down |
+This project demonstrates **real‑world Excel skills** beyond formulas: data cleaning, model design, DAX measures, dashboard layout, and user interactivity.
 
 ---
 
-## ✨ Visual Preview
-*(Add your own files under `/assets` and adjust the paths.)*
+## 🛠️ Tools & Skills Demonstrated
 
-| Time Analysis | Detailed Dashboard | Urgent Report |
-|---------------|-------------------|---------------|
-| <img src="assets/time‑analysis.png" width="300"/> | <img src="assets/detailed‑dashboard.png" width="300"/> | <img src="assets/urgent‑report.png" width="300"/> |
-
----
-
-## 🔑 Selected Insights & Targeted Recommendations
-
-| # | Insight (from Dashboard) | Actionable Recommendation |
-|---|--------------------------|---------------------------|
-| 1 | **Profit margin = 11.8 %** on \$1.94 M revenue. | Negotiate supplier discounts & adjust pricing on low‑elastic SKUs. |
-| 2 | **Q4 → 48 %** of yearly profit; spikes in **June & December**. | Align inventory & marketing; launch mid‑year promos each **June**. |
-| 3 | **Weekdays → 56.7 %** of profit; **Friday** alone \$62 k. | Schedule flash sales & e‑mail blasts every **Friday**. |
-| 4 | **25‑30 age group → 58.3 %** of profit. | Double‑down on social advertising (TikTok/Instagram) & loyalty perks. |
-| 5 | **4‑day shipping peak (446 orders)**. | Introduce premium next‑day option and renegotiate SLAs for standard tier. |
-| 6 | **87.3 % profit from >\$150 items; 48.5 % SKUs unprofitable.** | Discontinue red‑flag SKUs, upsell high‑value bundles. |
+- ✅ Power Query for data loading, transformation, and cleaning  
+- ✅ Power Pivot to build a star schema and manage relationships  
+- ✅ DAX formulas for dynamic KPI calculations (YoY, MoM, ranking)  
+- ✅ Pivot Charts & Slicers for interactivity  
+- ✅ **Macro button** (via recorded macro) to **clear all slicers**  
+- ✅ Time intelligence and product segmentation
 
 ---
 
-## 🛠️ How It Works
+## 📊 Dashboard Highlights
 
-1. **Power Query** pulls & cleans raw CSV → splits into dimension & fact tables.  
-2. **Power Pivot** hosts a star‑schema (incl. Calendar) enabling DAX time logic.  
-3. 40 + **DAX measures** power pivot charts & KPI cards.  
-4. **VBA macros** (`modDashboard.bas`) • one‑touch refresh • slicer resets • PDF export.  
-
-> Typical end‑user workflow: *Open → Click “Refresh Dashboard” → Decision‑making.*
+- **Time Analysis View**: Sales & profit trends by month, seasonality, weekday impact  
+- **Detailed Dashboard**: Top products, top customers, profit breakdowns, segments  
+- **Urgent Report View**: Flags unprofitable products, key issues, and business alerts  
+- **Interactivity**: Slicers for quick filtering by time, product category, customer age, and more  
+- **1‑Click Reset**: A macro-enabled button clears all slicers instantly  
 
 ---
 
-## 📂 Repository Layout
+## 📌 Key Insights & Recommendations
+
+| Insight | Recommendation |
+|--------|----------------|
+| **Q4 = 48% of annual profit** | Boost marketing in Q4, especially around November–December |
+| **Friday = highest profit day** | Schedule campaigns and discounts on Fridays |
+| **Age 25–30 = most profitable group** | Target this segment with tailored ads |
+| **Over 48% of SKUs are unprofitable** | Discontinue or reprice underperforming products |
+
+---
+
+## 📂 Project Structure
