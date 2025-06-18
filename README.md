@@ -28,6 +28,14 @@ This project demonstrates **real‑world Excel skills** beyond formulas: data cl
 
 ---
 
+## ✨ Visual Preview
+
+| Time Analysis | Detailed Dashboard | Urgent Report |
+|---------------|-------------------|---------------|
+| <img src="assets/time‑analysis.png" width="300"/> | <img src="assets/detailed‑dashboard.png" width="300"/> | <img src="assets/urgent‑report.png" width="300"/> |
+
+---
+
 ## 🛠️ Tools & Skills Demonstrated
 
 - ✅ Power Query for data loading, transformation, and cleaning  
@@ -51,13 +59,14 @@ This project demonstrates **real‑world Excel skills** beyond formulas: data cl
 
 ## 📌 Key Insights & Recommendations
 
-| Insight | Recommendation |
-|--------|----------------|
-| **Q4 = 48% of annual profit** | Boost marketing in Q4, especially around November–December |
-| **Friday = highest profit day** | Schedule campaigns and discounts on Fridays |
-| **Age 25–30 = most profitable group** | Target this segment with tailored ads |
-| **Over 48% of SKUs are unprofitable** | Discontinue or reprice underperforming products |
-
+| # | Insight (from Dashboard) | Actionable Recommendation |
+|---|--------------------------|---------------------------|
+| 1 | **Profit margin = 11.8 %** on \$1.94 M revenue. | Negotiate supplier discounts & adjust pricing on low‑elastic SKUs. |
+| 2 | **Q4 → 48 %** of yearly profit; spikes in **June & December**. | Align inventory & marketing; launch mid‑year promos each **June**. |
+| 3 | **Weekdays → 56.7 %** of profit; **Friday** alone \$62 k. | Schedule flash sales & e‑mail blasts every **Friday**. |
+| 4 | **25‑30 age group → 58.3 %** of profit. | Double‑down on social advertising (TikTok/Instagram) & loyalty perks. |
+| 5 | **4‑day shipping peak (446 orders)**. | Introduce premium next‑day option and renegotiate SLAs for standard tier. |
+| 6 | **87.3 % profit from >\$150 items; 48.5 % SKUs unprofitable.** | Discontinue red‑flag SKUs, upsell high‑value bundles. |
 ---
 
 ## 📂 Project Structure
