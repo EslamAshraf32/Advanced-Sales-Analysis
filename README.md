@@ -81,10 +81,9 @@ This project demonstrates **real‑world Excel skills** beyond formulas: data cl
 
 ## 🙋‍♂️ About Me
 
-**ELSAHM 32** — Data Analyst passionate about turning data into smart decisions. I specialize in Excel dashboards, Power BI reports, and SQL analysis.
+**Eslam Ashraf** — Data Analyst passionate about turning data into smart decisions. I specialize in Excel dashboards, Power BI reports, and SQL analysis.
 
-📍 Based in Ismailia, Egypt — open to remote or on-site roles  
-📫 [LinkedIn][https://www.linkedin.com/in/eslamashraff/) • [Email](mailto:islamashraf.b@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/eslamashraff/) • [Email](mailto:islamashraf.b@gmail.com)
 
 > *“I build tools that make data accessible, actionable, and impactful.”*
 
