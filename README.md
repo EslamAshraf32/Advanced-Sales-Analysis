@@ -69,4 +69,25 @@ This project demonstrates **real‑world Excel skills** beyond formulas: data cl
 | 6 | **87.3 % profit from >\$150 items; 48.5 % SKUs unprofitable.** | Discontinue red‑flag SKUs, upsell high‑value bundles. |
 ---
 
-## 📂 Project Structure
+## 🧠 What This Project Shows About Me
+
+- ✅ Ability to transform messy data into clean, model-ready tables  
+- ✅ Understanding of business KPIs and how to visualize them  
+- ✅ Strong DAX logic for dynamic insights  
+- ✅ Dashboard design with a clean, professional look  
+- ✅ Focus on user experience through automation (macro button)
+
+---
+
+## 🙋‍♂️ About Me
+
+**ELSAHM 32** — Data Analyst passionate about turning data into smart decisions. I specialize in Excel dashboards, Power BI reports, and SQL analysis.
+
+📍 Based in Ismailia, Egypt — open to remote or on-site roles  
+📫 [LinkedIn][https://www.linkedin.com/in/eslamashraff/) • [Email](mailto:islamashraf.b@gmail.com)
+
+> *“I build tools that make data accessible, actionable, and impactful.”*
+
+---
+
+### ⭐ If you liked this project, please give it a ⭐ on GitHub — it really helps!
